@@ -4,7 +4,7 @@ convert .osz osu beatmaps into properly-tagged .mp3 files
 
 ## Installation
 
-Clone this project and run `python setup.py install --user`
+Clone this repository and run `python setup.py install --user`
 
 Alternatively, install osu2mp3 from PyPI:
 
